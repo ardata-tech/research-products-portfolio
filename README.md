@@ -17,7 +17,7 @@ A collection of public project research and design.
 - SwapContracts
 - Governance Token for Listing
 - Lottery
-
+- Staking
 
 ## AI/Machine Learning
 - ChatBots
