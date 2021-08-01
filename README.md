@@ -5,6 +5,7 @@ A collection of public project research and design.
 - Document Signature System
 - Video Conferencing 
 - Digital Identity
+- Secure Asset Transfer
 - NFT Minting Engine
 - NFT Marketplace
 - SwapContracts
