@@ -17,7 +17,7 @@ A collection of public project research and design.
 - Distributed File Storage
 - Distributed Storage for Enterprise
 
-## Rsearch Papers
+## Research Papers
 - Blockchain-based fair payment smart contract for public storage
 - Privacy enhance remote data
 
