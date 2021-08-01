@@ -19,7 +19,7 @@ A collection of public project research and design.
 ## Rsearch Papers
 - Blockchain-based fair payment smart contract for public storage
 - Privacy enhance remote data
--
+
 ## AI/Machine Learning
 - ChatBots
 - Hot and Cold Training
