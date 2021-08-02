@@ -4,8 +4,8 @@ A collection of public project research and design.
 ## Applications
 - Document Signature System
 - Video Conferencing 
-- Digital Identity
-- Secure Asset Transfer
+- Digital Identity (SSI)
+- Secure Asset Transfer (eWallet Solution)
 - NFT Minting Engine
 - NFT Marketplace
 - SwapContracts
