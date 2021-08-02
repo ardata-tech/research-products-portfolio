@@ -14,8 +14,8 @@ A collection of public project research and design.
 - Staking
 
 ## Platform
-- Distributed File Storage
-- Distributed Storage for Enterprise
+- Distributed File Storage (PredFS)
+- Distributed Storage for Enterprise (IPFS / DistFSE)
 
 ## Research Papers
 - Blockchain-based fair payment smart contract for public storage
