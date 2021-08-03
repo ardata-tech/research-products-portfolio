@@ -15,7 +15,8 @@ A collection of public project research and design.
 - [Staking](https://github.com/proofsys-tech/stake-reward-contracts)
 
 ## Platform
-- Distributed File Storage (PredFS)
+- [Decentralized Tech Platform](https://github.com/halostac-platform)
+- Distributed File Storage
 - Distributed Storage for Enterprise (IPFS / DistFSE)
 
 ## Research Papers
