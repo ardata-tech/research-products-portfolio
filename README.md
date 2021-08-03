@@ -4,7 +4,7 @@ A collection of public project research and design.
 ## Applications
 - Document Signature System
 - Video Conferencing 
-- Digital Identity (SSI)
+- [Digital Identity (SSI)](https://github.com/proofsys-tech/ProofID)
 - Secure Asset Transfer (eWallet Solution)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
