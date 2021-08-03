@@ -24,7 +24,7 @@ A collection of public project research and design.
 - Privacy enhance remote data
 
 ## AI/Machine Learning
-- ChatBots
+- [ChatBots](https://www.botmill.io/)
 - Hot and Cold Training
 
 *Links coming soon.
