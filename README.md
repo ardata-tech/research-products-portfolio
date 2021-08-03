@@ -11,6 +11,7 @@ A collection of public project research and design.
 - SwapContracts
 - Governance Token for Listing
 - Lottery
+- [IPFS + BSC](https://github.com/proofsys-tech/pfs-bsc-web)
 - [Staking](https://github.com/proofsys-tech/stake-reward-contracts)
 
 ## Platform
