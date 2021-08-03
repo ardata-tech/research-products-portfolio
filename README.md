@@ -6,7 +6,7 @@ A collection of public project research and design.
 - Video Conferencing 
 - Digital Identity (SSI)
 - Secure Asset Transfer (eWallet Solution)
-- [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter)
+- [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
 - SwapContracts
 - Governance Token for Listing
