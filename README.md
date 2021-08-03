@@ -16,8 +16,8 @@ A collection of public project research and design.
 
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
-- Distributed File Storage
-- Distributed Storage for Enterprise (IPFS / DistFSE)
+- [Distributed Storage](https://github.com/halostac-platform/halo-fs)
+- [Distributed Storage for Enterprise](https://github.com/IBM/IPFSfB)
 
 ## Research Papers
 - Blockchain-based fair payment smart contract for public storage
