@@ -8,11 +8,12 @@ A collection of public project research and design.
 - Secure Asset Transfer (eWallet Solution)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
-- SwapContracts
+- Swap Contracts
 - Governance Token for Listing
 - Lottery
 - [IPFS + BSC](https://github.com/proofsys-tech/pfs-bsc-web)
 - [Staking](https://github.com/proofsys-tech/stake-reward-contracts)
+- Digital Animal Pet (CryptoKitties clone) App
 
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
@@ -26,5 +27,3 @@ A collection of public project research and design.
 ## AI/Machine Learning
 - [ChatBots](https://www.botmill.io/)
 - Hot and Cold Training
-
-*Links coming soon.
