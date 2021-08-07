@@ -17,7 +17,7 @@ A collection of public project research and design.
 
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
-- [Distributed Storage](https://github.com/halostac-platform/halo-fs)
+- [Distributed Storage](https://github.com/halostac-platform/halofs)
 - [Distributed Storage for Enterprise](https://github.com/IBM/IPFSfB)
 
 ## Research Papers
