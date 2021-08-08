@@ -1,4 +1,4 @@
-# Research and Design Papers
+# Research, Design, Portfolio, Apps
 A collection of public project research and design.
 
 ## Applications
