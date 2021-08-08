@@ -5,7 +5,7 @@ A collection of public project research and design.
 - Document Signature System
 - [Secure Video Conferencing](https://github.com/proofsys-tech/cubitalk-resource)
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
-- [Secure Asset Transfer] (https://github.com/proofsys-tech/epayment-resource)
+- [Secure Asset Transfer](https://github.com/proofsys-tech/epayment-resource)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
 - Swap Contracts
