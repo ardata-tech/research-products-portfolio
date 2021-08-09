@@ -3,7 +3,7 @@ A collection of public project research and design.
 
 ## Applications
 - Document Signature System
-- [Secure Video Conferencing](https://github.com/proofsys-tech/cubitalk-resource)
+- [Secure Video Conferencing](https://cubi-talk.herokuapp.com/)
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
 - [Secure Asset Transfer](https://github.com/proofsys-tech/epayment-resource)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
