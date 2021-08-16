@@ -1,4 +1,4 @@
-# Research, Design, Portfolio, Apps
+# Research, Design, Portfolio, Products
 A collection of public project research and design.
 
 ## Applications
