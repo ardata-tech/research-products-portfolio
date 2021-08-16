@@ -5,7 +5,7 @@ A collection of public project research and design.
 - Document Signature System
 - [Secure Video Conferencing](https://cubi-talk.herokuapp.com/)
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
-- [Secure Asset Transfer](https://github.com/proofsys-tech/epayment-resource)
+- [ePayment/eWallet Solution](#)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
 - Swap Contracts
@@ -14,6 +14,7 @@ A collection of public project research and design.
 - [IPFS + BSC](https://github.com/proofsys-tech/pfs-bsc-web)
 - [Staking](https://github.com/proofsys-tech/stake-reward-contracts)
 - Digital Animal Pet (CryptoKitties clone) App
+
 
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
