@@ -5,7 +5,7 @@ A collection of public project research and design.
 - Document Signature System
 - [Secure Video Conferencing](https://cubi-talk.herokuapp.com/)
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
-- [ePayment/eWallet Solution](#)
+- [ePayment/eWallet Solution](https://github.com/proofsys-tech/research-design-papers/files/7003055/Secure.ePayment.Solution.16082021.pdf)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - NFT Marketplace
 - Swap Contracts
