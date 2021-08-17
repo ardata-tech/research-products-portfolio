@@ -7,7 +7,7 @@ A collection of public project research and design.
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
 - [ePayment/eWallet Solution](https://github.com/proofsys-tech/research-design-papers/files/7003055/Secure.ePayment.Solution.16082021.pdf)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
-- NFT Marketplace
+- [NFT Marketplace](https://github.com/proofsys-tech/nft-vanilla-marketplace)
 - Swap Contracts
 - Governance Token for Listing
 - Lottery
