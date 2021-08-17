@@ -1,5 +1,8 @@
-# Research, Design, Portfolio, Products
-A collection of public project research and design.
+# Research, Solutions Design, Products and Portfolio
+
+Official repository of our public work, available products and work portfolio.
+
+Striving to build useful quality products every single day.
 
 ## Applications
 - Document Signature System
@@ -15,7 +18,6 @@ A collection of public project research and design.
 - [Staking](https://github.com/proofsys-tech/stake-reward-contracts)
 - Digital Animal Pet (CryptoKitties clone) App
 
-
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
 - [Distributed Storage](https://github.com/halostac-platform/halofs)
@@ -27,4 +29,4 @@ A collection of public project research and design.
 
 ## AI/Machine Learning
 - [ChatBots](https://www.botmill.io/)
-- Hot and Cold Training
+- Hot and Cold Training Runtime
