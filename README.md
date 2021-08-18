@@ -22,6 +22,7 @@ Striving to build useful quality products every single day.
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
 - [Distributed Storage](https://github.com/halostac-platform/halofs)
 - [Distributed Storage for Enterprise](https://github.com/IBM/IPFSfB)
+- [ICO/IDO/STO Platform](#)
 
 ## Research Papers
 - Blockchain-based fair payment smart contract for public storage
