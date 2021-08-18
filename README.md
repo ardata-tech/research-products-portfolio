@@ -8,7 +8,7 @@ Striving to build useful quality products every single day.
 - Document Signature System
 - [Secure Video Conferencing](https://cubi-talk.herokuapp.com/)
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
-- [ePayment/eWallet Solution](https://github.com/proofsys-tech/research-design-papers/files/7003055/Secure.ePayment.Solution.16082021.pdf)
+- [ePayment/eWallet Solution](#)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
 - [NFT Marketplace](https://github.com/proofsys-tech/nft-vanilla-marketplace)
 - Swap Contracts
