@@ -21,6 +21,7 @@ Striving to build useful quality products every single day.
 ## Platform
 - [Decentralized Tech Platform](https://github.com/halostac-platform)
 - [Distributed Storage](https://github.com/halostac-platform/halofs)
+- [Distributed Database](https://ipdb.io/)
 - [Distributed Storage for Enterprise](https://github.com/IBM/IPFSfB)
 - [ICO/IDO/STO Platform](#)
 
