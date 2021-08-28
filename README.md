@@ -10,7 +10,7 @@ Striving to build useful quality products every single day.
 - [Digital Identity (SSI)](https://github.com/proofsys-tech/proofid-resource)
 - [ePayment/eWallet Solution](#)
 - [NFT Minting Engine](https://github.com/proofsys-tech/nft-minter-contracts)
-- [NFT Marketplace](https://github.com/proofsys-tech/nft-vanilla-marketplace)
+- [NFT Marketplace](https://github.com/proofsys-tech/nft-marketplace)
 - Swap Contracts
 - Governance Token for Listing
 - Lottery
