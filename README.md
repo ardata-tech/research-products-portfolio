@@ -25,9 +25,12 @@ Striving to build useful quality products every single day.
 - [Distributed Storage for Enterprise](https://github.com/IBM/IPFSfB)
 - [ICO/IDO/STO Platform](#)
 
-## Research Papers
-- Blockchain-based fair payment smart contract for public storage
+## Research Papers / Design
 - Privacy enhance remote data
+- [ProofID - Blockchain based Identity System](https://docs.google.com/document/u/3/d/1bUJ3oykGYXvRurnVSLC4q1gmDeYO0gl2APE-vst5CxA/edit?usp=sharing)
+- ProofPay - Payment Processing using blockchain infrastructure
+- HaloStac Streaming - Incentivization Layer for P2P Streaming
+- HaloStac Storage - Incentivization Layer for Distributed Storage
 
 ## AI/Machine Learning
 - [ChatBots](https://www.botmill.io/)
