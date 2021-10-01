@@ -30,7 +30,7 @@ Striving to build useful quality products every single day.
 - [ProofID - Blockchain based Identity System](https://docs.google.com/document/u/3/d/1bUJ3oykGYXvRurnVSLC4q1gmDeYO0gl2APE-vst5CxA/edit?usp=sharing)
 - ProofPay - Payment Processing using blockchain infrastructure
 - HaloStac Streaming - Incentivization Layer for P2P Streaming
-- HaloStac Storage - Incentivization Layer for Distributed Storage
+- [HaloStac Storage - Incentivization Layer for Distributed Storage](https://docs.google.com/document/d/1jETvO1gsTlLGE0_x60RT-gF0WW_BY5X7b4CdV-C3h_Y/edit#)
 
 ## AI/Machine Learning
 - [ChatBots](https://www.botmill.io/)
