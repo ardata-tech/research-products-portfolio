@@ -36,3 +36,7 @@ Striving to build useful quality products every single day.
 ## AI/Machine Learning
 - [ChatBots](https://www.botmill.io/)
 - Hot and Cold Training Runtime
+
+## Infrastructure
+- Kube Operator for IPFS
+- kube Operator for Substrate node
